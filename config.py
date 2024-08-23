@@ -1,0 +1,3 @@
+TOKEN = ""
+API_TOKEN = ""
+SECRET_KEY = ""
